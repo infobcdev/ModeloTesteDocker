@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ccmar\\Source\\Repos\\ProjetoNetCore\\ProjetoNetCore\\ProjetoNetCore.csproj": {}
+    "C:\\Users\\ccmar\\Documents\\GitHub\\ModeloTesteDocker\\ProjetoNetCore\\ProjetoNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ccmar\\Source\\Repos\\ProjetoNetCore\\ProjetoNetCore\\ProjetoNetCore.csproj": {
+    "C:\\Users\\ccmar\\Documents\\GitHub\\ModeloTesteDocker\\ProjetoNetCore\\ProjetoNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ccmar\\Source\\Repos\\ProjetoNetCore\\ProjetoNetCore\\ProjetoNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\ccmar\\Documents\\GitHub\\ModeloTesteDocker\\ProjetoNetCore\\ProjetoNetCore.csproj",
         "projectName": "ProjetoNetCore",
-        "projectPath": "C:\\Users\\ccmar\\Source\\Repos\\ProjetoNetCore\\ProjetoNetCore\\ProjetoNetCore.csproj",
+        "projectPath": "C:\\Users\\ccmar\\Documents\\GitHub\\ModeloTesteDocker\\ProjetoNetCore\\ProjetoNetCore.csproj",
         "packagesPath": "C:\\Users\\ccmar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ccmar\\Source\\Repos\\ProjetoNetCore\\ProjetoNetCore\\obj\\",
+        "outputPath": "C:\\Users\\ccmar\\Documents\\GitHub\\ModeloTesteDocker\\ProjetoNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ccmar\\Source\\Repos\\ProjetoNetCore\\",
+  "WorkspaceRootPath": "C:\\Users\\ccmar\\Documents\\GitHub\\ModeloTesteDocker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F3232BA-5B9F-4A9C-95E3-9EE8A10CC339}|ProjetoNetCore\\ProjetoNetCore.csproj|c:\\users\\ccmar\\source\\repos\\projetonetcore\\projetonetcore\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{5F3232BA-5B9F-4A9C-95E3-9EE8A10CC339}|ProjetoNetCore\\ProjetoNetCore.csproj|c:\\users\\ccmar\\documents\\github\\modelotestedocker\\projetonetcore\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5F3232BA-5B9F-4A9C-95E3-9EE8A10CC339}|ProjetoNetCore\\ProjetoNetCore.csproj|solutionrelative:projetonetcore\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -17,21 +17,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\ccmar\\Source\\Repos\\ProjetoNetCore\\ProjetoNetCore\\Dockerfile",
-              "RelativeDocumentMoniker": "ProjetoNetCore\\Dockerfile",
-              "ToolTip": "C:\\Users\\ccmar\\Source\\Repos\\ProjetoNetCore\\ProjetoNetCore\\Dockerfile",
-              "RelativeToolTip": "ProjetoNetCore\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-14T17:34:37.504Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
@@ -81,8 +68,17 @@
               "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ccmar\\Documents\\GitHub\\ModeloTesteDocker\\ProjetoNetCore\\Dockerfile",
+              "RelativeDocumentMoniker": "ProjetoNetCore\\Dockerfile",
+              "ToolTip": "C:\\Users\\ccmar\\Documents\\GitHub\\ModeloTesteDocker\\ProjetoNetCore\\Dockerfile",
+              "RelativeToolTip": "ProjetoNetCore\\Dockerfile",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-14T17:34:37.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -94,8 +90,11 @@
               "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\build\\Container.targets",
               "ViewState": "AgIAANgAAAAAAAAAAAAowOsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-06-14T16:50:51.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T16:50:51.718Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
